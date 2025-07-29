@@ -39,7 +39,7 @@ h1,h2,h3{{margin-top:1em;}}
 textarea{{width:90%; height:100px;}}
 </style>
 </head><body>
-<h1>Ask GPT‑4o Markdown-style</h1>
+<h1>Hello Enter the Query</h1>
 <form method="POST" action="/">
   <textarea name="prompt">{html.escape(prompt)}</textarea><br>
   <button type="submit">Send</button>
